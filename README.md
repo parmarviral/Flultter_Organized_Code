@@ -1,6 +1,10 @@
 # flultter_organized_code
 
 A new Flutter project.
+This Project Include an example of Oganaized code in dart
+Basically our main method contain less code as you can Write For better Understanding here in this code i've write one separate file for better undrstanding the code!!
+
+Reach me on twitter : @vral_parmar
 
 ## Getting Started
 
